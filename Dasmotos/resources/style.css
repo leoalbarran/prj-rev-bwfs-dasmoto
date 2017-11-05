@@ -1,0 +1,38 @@
+h1 {
+  background-image: url(https://preview.ibb.co/kY2vw5/pattern.jpg);
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.product h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+h1,
+h2,
+h3,
+p {
+  font-family: Helvetica;
+}
+
+#brush {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+.starting {
+  color: blue;
+  font-weight: bold;
+  font-family: Helvetica;
+}
